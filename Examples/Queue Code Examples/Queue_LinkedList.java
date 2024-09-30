@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-class GfG {
+class Queue_LinkedList {
 
     public static void main(String args[])
     {

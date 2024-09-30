@@ -52,7 +52,7 @@ class DelayObject implements Delayed {
 }
 
 // Driver Class
-public class GFG {
+public class Delay_Queue {
 	public static void main(String[] args)
 		throws InterruptedException
 	{

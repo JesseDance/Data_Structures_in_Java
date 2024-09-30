@@ -1,7 +1,7 @@
 // Java implementation of Deque using
 // doubly linked list
 import java.util.*;
-class GFG {
+class LinkedList_Queue {
 
 	// Node of a doubly linked list
 	static class Node {

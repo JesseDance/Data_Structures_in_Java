@@ -1,6 +1,6 @@
 // Java Program to implement a Circular Queue in Java 
 import java.util.*; 
-public class CircularQueue 
+public class Java_CircularQueue 
 { 
 	// Maximum size of the circular queue 
 	private int maxSize;	 

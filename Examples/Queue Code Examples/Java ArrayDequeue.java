@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-class Main {
+class ArrayDequeue {
     public static void main(String[] args) {
         ArrayDeque<String> animals= new ArrayDeque<>();
 

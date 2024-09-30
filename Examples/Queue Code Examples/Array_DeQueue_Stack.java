@@ -1,6 +1,6 @@
 import java.util.ArrayDeque;
 
-class Main {
+class Array_DeQueue_Stack {
     public static void main(String[] args) {
         ArrayDeque<String> stack = new ArrayDeque<>();
 
