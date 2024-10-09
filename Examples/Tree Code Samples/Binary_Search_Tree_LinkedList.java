@@ -1,19 +1,8 @@
-// Node Class
-class Node {
-    int key;
-    Node left, right;
-
-    public Node(int item) {
-        key = item;
-        left = right = null;
-    }
-}
-
 // BinaryTree Class
-public class BinaryTree {
+public class Binary_Search_Tree_LinkedList {
     Node root;
 
-    public BinaryTree() {
+    public Binary_Search_Tree_LinkedList() {
         root = null;
     }
 
@@ -106,7 +95,7 @@ public class BinaryTree {
     }
 
     public static void main(String[] args) {
-        BinaryTree tree = new BinaryTree();
+        Binary_Search_Tree_LinkedList tree = new Binary_Search_Tree_LinkedList();
 
         // Insert some nodes
         tree.insert(50);
