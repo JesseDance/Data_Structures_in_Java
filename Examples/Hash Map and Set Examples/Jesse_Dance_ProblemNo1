@@ -1,0 +1,14 @@
+public class Hashtable {
+
+	private static int capacity = 8;
+
+	private KeyValuePair[] pair;
+
+	private int size;
+
+	
+	public Hashtable() {
+		
+	}
+
+}
